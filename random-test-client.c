@@ -15,7 +15,7 @@
 #include <math.h>
 #include <time.h>
 
-#include <modbus.h>
+#include "modbus.h"
 
 /* The goal of this program is to check all major functions of
    libmodbus:
